@@ -6,7 +6,7 @@ int main()
     printf("Enter a number: ");
     scanf("%d", &a);
 
-    while(a < 100)
+    while(a < 10)
     {
         printf("Happy Birthday\n");
         a++;
