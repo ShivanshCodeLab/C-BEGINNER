@@ -1,3 +1,6 @@
+// Quick Quiz: Write a program to print first 'n' natural numbers using for loop
+
+
 #include <stdio.h>
 
 int main()

@@ -8,7 +8,7 @@ int main()
     printf("Enter a: ");
     scanf("%d", &a);
 
-    printf("Enter b:");
+    printf("Enter b: ");
     scanf("%d", &b);
 
     a>b?printf("A is greater"):printf("B is greater");
